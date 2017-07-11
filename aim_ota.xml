@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <Z010D>
+            <Filename>AIM-System-V2.0_20170711-OFFICIAL-Z010D.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Update available">https://www.androidfilehost.com/?fid=673368273298970704</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <threadUrl
+                id="xda"
+                title="XDA"
+                description="AIMROM for Z010D XDA thread">https://forum.xda-developers.com/zenfone2/general/rom-aim-rom-t3615288</threadUrl>
+       </Z010D>
+    </Stable>
+</AimOTA>
