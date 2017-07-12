@@ -2,11 +2,11 @@
 <AimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <Z010D>
-            <Filename>AIM-System-V2.0_20170711-OFFICIAL-Z010D.zip</Filename>
+            <Filename>AIM-System-V2.0_20170712-OFFICIAL-Z010D</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Update available">https://www.androidfilehost.com/?fid=673368273298970704</RomUrl>
+                description="Update available">https://qc3.androidfilehost.com/dl/TL2gfqSiZCqhnGg1RWzRtQ/1500071375/961840155545581127/AIM-System-V2.0-20170712-OFFICIAL-Z010D.zip<RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
