@@ -2,7 +2,7 @@
 <AimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <Z010D>
-            <Filename>AIM-System-V2.0_20170712-OFFICIAL-Z010D</Filename>
+            <Filename>AIM-System-V2.0_20170714-OFFICIAL-Z010D.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
