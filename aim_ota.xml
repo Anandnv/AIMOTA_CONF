@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <Z010D>
-            <Filename>AIM-System-V2.0_20170714-OFFICIAL-Z010D.zip</Filename>
+            <Filename>AIM-System-V2.0_20170715-OFFICIAL-Z010D.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Update available">https://qc3.androidfilehost.com/dl/TL2gfqSiZCqhnGg1RWzRtQ/1500071375/961840155545581127/AIM-System-V2.0-20170712-OFFICIAL-Z010D.zip<RomUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
-            <threadUrl
+                title="Downloads"
+                description="Download latest builds">https://de1.androidfilehost.com/dl/Yvtm5kJ0QdVQ9_oznm5Zbg/1500088100/817550096634783165/AIM-System-V2.0_20170715-OFFICIAL-Z010D.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/aimrom/android_vendor_aim/blob/N/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	<threadUrl
                 id="xda"
                 title="XDA"
                 description="AIMROM for Z010D XDA thread">https://forum.xda-developers.com/zenfone2/general/rom-aim-rom-t3615288</threadUrl>
-       </Z010D>
+        </Z010D>
     </Stable>
-</AimOTA>
+</SlimOTA>
